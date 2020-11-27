@@ -1,0 +1,5 @@
+ProcessPointClouds<pcl::PointXYZ>
+
+
+environment: /usr/include/boost/smart_ptr/shared_ptr.hpp:641: typename boost::detail::sp_dereference<T>::type boost::shared_ptr<T>::operator*() const [with T = pcl::PointIndices; typename boost::detail::sp_dereference<T>::type = pcl::PointIndices&]: Assertion `px != 0' failed.
+Aborted (core dumped)
